@@ -37,8 +37,8 @@ Evidencias
 
 La carpeta `evidencias/` contiene las capturas de pantalla utilizadas como respaldo del análisis:
 
-- [evento_4624.jpg](evento_4624.jpg): evidencia del inicio de sesión exitoso.
-- [evento_4625.jpg](evento_4625.jpg): evidencia del inicio de sesión fallido.
+- [evento_4624.jpg](evidencias/evento_4624.jpg): evidencia del inicio de sesión exitoso.
+- [evento_4625.jpg](evidencias/evento_4625.jpg): evidencia del inicio de sesión fallido.
 
 El análisis técnico completo se encuentra disponible en:
 
