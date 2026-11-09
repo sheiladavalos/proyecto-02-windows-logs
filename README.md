@@ -35,7 +35,15 @@ El evento requiere interpretarse en su contexto. Un único registro fallido no e
 
 Evidencias
 
-La carpeta `evidencias/` contiene capturas de pantalla de los eventos analizados en el Visor de eventos de Windows.
+La carpeta `evidencias/` contiene las capturas de pantalla utilizadas como respaldo del análisis:
+
+- [evento_4624.jpg](evento_4624.jpg): evidencia del inicio de sesión exitoso.
+- [evento_4625.jpg](evento_4625.jpg): evidencia del inicio de sesión fallido.
+
+El análisis técnico completo se encuentra disponible en:
+
+- [informe_eventos_windows.md](informe_eventos_windows.md)
+- [informe_eventos_windows.docx](informe_eventos_windows.md.docx)
 
 Conclusiones
 
